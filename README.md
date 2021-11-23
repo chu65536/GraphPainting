@@ -1,6 +1,6 @@
 # GraphPainting
 
 Controls:
-Create node - middle mouse click
-Remove node - Right mouse click
-Drag node - Hold and drag left mouse button
+1. Create node - middle mouse click
+2. Remove node - Right mouse click
+3. Drag node - Hold left mouse button and drag
